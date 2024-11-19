@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>F:\POLITECNICO INMACULADA CONCEPCION\5TO INFORMATICA\TAREAS PENDIENTES\PROYECTO FINAL RAIDELIN\PROYECTO ANDY REPUESTOS\Andy repuestos\Andy repuestos\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Agregarempleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Agregarproducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buscarempleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buscarproducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Configuracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facturar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportedeempleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportefactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reporteinventario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
